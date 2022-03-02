@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--
 <div>
   <h1 align="center">Oii Tudo bem? Eu sou o <a href="https:"><i>Mauricio Oliveira</i></a> 🐺🔥</h1>
   <p align="center">Estou cursando Tecnologia da informação na  <a href="https://www.epsa.com/"><i>Epsa</i></a> e busco desenvolver e aprender muito nesta área que cresce cada dia<a href="https:uma imagem de TI"><i><b>TI</b></i></a>
@@ -21,7 +22,7 @@ Here are some ideas to get you started:
   </a><br>
   
 </div>
-
+-->
 
  <h1 align="center"> 
   Epsa
@@ -31,7 +32,6 @@ Here are some ideas to get you started:
 <P>Até aqui programando <\p>
 
 <div align="center">
-  <a href="https://github.com/duribeiro">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=duribeiro&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duribeiro&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
