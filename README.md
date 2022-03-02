@@ -27,8 +27,7 @@ Here are some ideas to get you started:
   Epsa
 </h1>
 
-<p align="center"><i>"A Epsa é uma instituição para aquela pessoa que deseja construir uma carreira de sucesso em aprendizados mutous."</i></p>
-<P>Até aqui programando <\p>
+<p align="center"><i>"A Epsa é uma instituição para aquelas pessoas que busca construir uma carreira de sucesso e de aprendizados mutous."</i></p>
 
 <div align="center">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=duribeiro&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
@@ -51,7 +50,7 @@ Here are some ideas to get you started:
 <div align="center">
   
   <a href="https://www.instagram.com/Mauricio_oliver1/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.facebook.com/pr.Mauriciooliveira" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>  -->
+  <a href="https://www.facebook.com/pr.Mauriciooliveira" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
    
   <a href="mailto:mauriciosantosolive@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
