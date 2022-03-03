@@ -8,7 +8,7 @@ Hello I'm
 </h1>
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Olivermauricio&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
   <h1 align="center" 🔥</h1>
-  <p align="center">Estou cursando Tecnologia da informação na  <a href="https:www.epsa.com.br/"><i>Epsa</i></a> e busco desenvolver e aprender muito nesta área que cresce cada dia.<img height="150em" src="https://br.freepik.com/fotos-gratis/cidade-inteligente-futurista-com-tecnologia-de-rede-global-5g_13463111.htm#query=tecnologia&position=5&from_view=keyword   "/></a>
+  <p align="center">Estou cursando Tecnologia da informação na  <a href="https:www.epsa.com.br/"><i>Epsa</i></a> e busco desenvolver e aprender muito nesta área que cresce cada dia.</a>
     
   </a><br>
   <div align="center">
