@@ -1,7 +1,11 @@
 
 
 <div>
-  <h1 align="center"><i>Mauricio Oliveira</i></a> 🔥</h1>
+<h1 align="center">
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+Hello I'm Mauricio Oliveira<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+</h1>
+  <h1 align="center" 🔥</h1>
   <p align="center">Estou cursando Tecnologia da informação na  <a href="https:www.epsa.com.br/"><i>Epsa</i></a> e busco desenvolver e aprender muito nesta área que cresce cada dia.<img height="150em" src="https://br.freepik.com/fotos-gratis/cidade-inteligente-futurista-com-tecnologia-de-rede-global-5g_13463111.htm#query=tecnologia&position=5&from_view=keyword   "/></a>
     
   </a><br>
