@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   </a><br>
   
 </div>
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=Mauricio_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=mauricio&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
  <h1 align="center"> 
   Epsa
 </h1>
