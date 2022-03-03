@@ -21,7 +21,7 @@ Hello I'm
   Epsa
 </h1>
 
-<p align="center"><i>"A Epsa é uma instituição para aquelas pessoas que busca construir uma carreira de sucesso e de aprendizados mutous."</i></p>
+<p align="center"><i>"A Epsa é uma instituição para aquelas pessoas que buscam construir uma carreira de sucesso e de aprendizados mutous."</i></p>
 
 <div align="center">
   </a>
