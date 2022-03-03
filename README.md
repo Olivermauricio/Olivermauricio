@@ -1,22 +1,7 @@
 
 
-<!--
-**Olivermauricio/Olivermauricio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <div>
-  <h1 align="center">Oii Tudo bem? Eu sou o <a href="https:"><i>Mauricio Oliveira</i></a> 🐺🔥</h1>
+  <h1 align="center"><i>Mauricio Oliveira</i></a> 🔥</h1>
   <p align="center">Estou cursando Tecnologia da informação na  <a href="https:www.epsa.com.br/"><i>Epsa</i></a> e busco desenvolver e aprender muito nesta área que cresce cada dia.<img height="150em" src="https://br.freepik.com/fotos-gratis/cidade-inteligente-futurista-com-tecnologia-de-rede-global-5g_13463111.htm#query=tecnologia&position=5&from_view=keyword   "/></a>
     
   </a><br>
@@ -30,7 +15,6 @@ Here are some ideas to get you started:
 <p align="center"><i>"A Epsa é uma instituição para aquelas pessoas que busca construir uma carreira de sucesso e de aprendizados mutous."</i></p>
 
 <div align="center">
-    <img height="150em" src=""/>
   </a>
 </div>
 
