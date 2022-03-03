@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <div>
   <h1 align="center">Oii Tudo bem? Eu sou o <a href="https:"><i>Mauricio Oliveira</i></a> 🐺🔥</h1>
-  <p align="center">Estou cursando Tecnologia da informação na  <a href="https:www.epsa.com.br/"><i>Epsa</i></a> e busco desenvolver e aprender muito nesta área que cresce cada dia<a href="https:uma imagem de TI"><i><b>TI</b></i></a>
+  <p align="center">Estou cursando Tecnologia da informação na  <a href="https:www.epsa.com.br/"><i>Epsa</i></a> e busco desenvolver e aprender muito nesta área que cresce cada dia.<img height="150em" src="https:// https://gifer.com/McDp=duribeiro&theme=dracula&hide_border=false&&layout=compact"/> </a>
     <img width="10%" align="center" valign="middle" src="https:  " target="_blank" />
   </a><br>
   
