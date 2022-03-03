@@ -11,7 +11,11 @@ Hello I'm
   <p align="center">Estou cursando Tecnologia da informação na  <a href="https:www.epsa.com.br/"><i>Epsa</i></a> e busco desenvolver e aprender muito nesta área que cresce cada dia.<img height="150em" src="https://br.freepik.com/fotos-gratis/cidade-inteligente-futurista-com-tecnologia-de-rede-global-5g_13463111.htm#query=tecnologia&position=5&from_view=keyword   "/></a>
     
   </a><br>
+  <div align="center">
   
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
 </div>
  <h1 align="center"> 
   Epsa
@@ -23,11 +27,7 @@ Hello I'm
   </a>
 </div>
 
-<div align="center">
-  
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
+
 <div align="center" valign="top"><br>
   
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
