@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   </a><br>
   
 </div>
-
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=duribeiro&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
  <h1 align="center"> 
   Epsa
 </h1>
@@ -30,7 +30,6 @@ Here are some ideas to get you started:
 <p align="center"><i>"A Epsa é uma instituição para aquelas pessoas que busca construir uma carreira de sucesso e de aprendizados mutous."</i></p>
 
 <div align="center">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=duribeiro&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duribeiro&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
